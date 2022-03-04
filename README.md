@@ -1,9 +1,12 @@
 # calculator-base
 
 
-Feladat egy szamologep leprogramozasa. Alap muveleteket tud, bemenetrol dolgozik kimenetre ir.
+Feladat egy szamologep leprogramozasa egy maven projektben. 
+Kulso fuggosege csak a Junit megfelelo veerzioja.
 
-A github-on teszteli is az alkalmazasod.
+A szamologep alap muveleteket tud, bemenetrol dolgozik kimenetre ir.
+
+A github teszteli is az alkalmazasod.
 
 Elvert mukodes:
 - a futtathato osztaly teljes neve: hu.meiit.haladojava.calculator.App
